@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 <h1>PROJETO PIXELS ART'S</h1>
+=======
+<h1>PROJETO PIXEL ART</h1>
+>>>>>>> 0f84a96df34460f7361affa81bfdf148c76b4757
